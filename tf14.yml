@@ -50,7 +50,7 @@ dependencies:
   - japronto==0.1.1
   - jmespath==0.9.3
   - jupyter-client==4.4.0
-  - jupyter-core==4.2.0
+#   - jupyter-core==4.2.0
   - keras==2.0.8
   - lasagne==0.2.dev1
   - markdown==2.6.11
