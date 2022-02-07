@@ -7,7 +7,7 @@ channels:
 - defaults
 dependencies:
 # boto=2.48.0=py35_0
-- cffi=1.10.0=py35_0
+# - cffi=1.10.0=py35_0
 # - click=6.6=py35_0
 # - cycler=0.10.0=py35_0
 # - dbus=1.10.10=0
