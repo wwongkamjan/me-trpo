@@ -145,7 +145,7 @@ dependencies:
   - flatbuffers==2015.12.22.1
   - funcsigs==1.0.2
   - glfw==1.4.0
-  - gym (/home/thanard/anaconda3/envs/tf14/lib/python3.5/site-packages)==0.8.0
+  - gym==0.8.0
   - html5lib==0.9999999
   - imageio==2.2.0
   - ipdb==0.10.3
